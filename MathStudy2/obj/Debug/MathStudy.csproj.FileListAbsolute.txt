@@ -1,0 +1,6 @@
+E:\Aaron\source\repos\MathStudy\MathStudy\bin\Debug\MathStudy.exe.config
+E:\Aaron\source\repos\MathStudy\MathStudy\bin\Debug\MathStudy.exe
+E:\Aaron\source\repos\MathStudy\MathStudy\bin\Debug\MathStudy.pdb
+E:\Aaron\source\repos\MathStudy\MathStudy\obj\Debug\MathStudy.csprojAssemblyReference.cache
+E:\Aaron\source\repos\MathStudy\MathStudy\obj\Debug\MathStudy.exe
+E:\Aaron\source\repos\MathStudy\MathStudy\obj\Debug\MathStudy.pdb

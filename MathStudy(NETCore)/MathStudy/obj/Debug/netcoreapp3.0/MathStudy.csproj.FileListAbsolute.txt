@@ -1,0 +1,11 @@
+E:\Aaron\source\repos\MathStudy2.0\MathStudy\bin\Debug\netcoreapp3.0\MathStudy.exe
+E:\Aaron\source\repos\MathStudy2.0\MathStudy\bin\Debug\netcoreapp3.0\MathStudy.deps.json
+E:\Aaron\source\repos\MathStudy2.0\MathStudy\bin\Debug\netcoreapp3.0\MathStudy.runtimeconfig.json
+E:\Aaron\source\repos\MathStudy2.0\MathStudy\bin\Debug\netcoreapp3.0\MathStudy.runtimeconfig.dev.json
+E:\Aaron\source\repos\MathStudy2.0\MathStudy\bin\Debug\netcoreapp3.0\MathStudy.dll
+E:\Aaron\source\repos\MathStudy2.0\MathStudy\bin\Debug\netcoreapp3.0\MathStudy.pdb
+E:\Aaron\source\repos\MathStudy2.0\MathStudy\obj\Debug\netcoreapp3.0\MathStudy.csprojAssemblyReference.cache
+E:\Aaron\source\repos\MathStudy2.0\MathStudy\obj\Debug\netcoreapp3.0\MathStudy.AssemblyInfoInputs.cache
+E:\Aaron\source\repos\MathStudy2.0\MathStudy\obj\Debug\netcoreapp3.0\MathStudy.AssemblyInfo.cs
+E:\Aaron\source\repos\MathStudy2.0\MathStudy\obj\Debug\netcoreapp3.0\MathStudy.dll
+E:\Aaron\source\repos\MathStudy2.0\MathStudy\obj\Debug\netcoreapp3.0\MathStudy.pdb
